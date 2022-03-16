@@ -1,1 +1,4 @@
-# poo
+# POO
+* INSTALAR GIT
+* INSTALAR VISUAL STUDIO
+* 
